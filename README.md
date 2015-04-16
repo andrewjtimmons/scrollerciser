@@ -13,6 +13,7 @@ hit enter
 get fit
 
 v~~~PASTE THIS~~~v
+
 function timeout() {
     setTimeout(function () {
         $("html, body").animate({ scrollTop: $(document).height() })
