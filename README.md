@@ -1,8 +1,8 @@
 # scrollerciser
 
-Joke repo
+joke repo
 
-Go to http://scroll-o-meter.club/
+go to http://scroll-o-meter.club/
 
 open chrome developer console
 
@@ -12,7 +12,7 @@ hit enter
 
 get fit
 
-v~~~PASTE THIS~~~v
+v~paste ths~v
 
 function timeout() {
     setTimeout(function () {
